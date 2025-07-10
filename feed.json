@@ -7,12 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://maira.micro.blog/2025/07/10/watched-rogue-one-again-after.html",
+				
+				"content_html": "<p>🍿 Watched <a href=\"https://www.imdb.com/title/tt3748528/\">Rogue One</a> again, after finishing Andor. Loved following the story arc and the characters. Rogue One flows seamlessly from Andor to New Hope. Great writing, cinematography, a touch of humor&hellip; I think this might be <strong>&ldquo;the&rdquo;</strong> best Star Wars movie, ever.</p>\n",
+				"content_text": "🍿 Watched [Rogue One](https://www.imdb.com/title/tt3748528/) again, after finishing Andor. Loved following the story arc and the characters. Rogue One flows seamlessly from Andor to New Hope. Great writing, cinematography, a touch of humor... I think this might be **\"the\"** best Star Wars movie, ever.\n",
+				"date_published": "2025-07-10T13:36:29+02:00",
+				"url": "https://mairamartins.com/2025/07/10/watched-rogue-one-again-after.html",
+				"tags": ["watchlist"]
+			},
+			{
+				"id": "http://maira.micro.blog/2025/07/09/watched-andor-season-this-week.html",
+				
+				"content_html": "<p>📺 Watched <a href=\"https://www.imdb.com/title/tt9253284/\">Andor Season 2</a> this week. Unpopular opinion, but I found it just &ldquo;meh&rdquo;. A well-made and boring space-opera.</p>\n",
+				"content_text": "📺 Watched [Andor Season 2](https://www.imdb.com/title/tt9253284/) this week. Unpopular opinion, but I found it just \"meh\". A well-made and boring space-opera.\n",
+				"date_published": "2025-07-09T12:03:11+02:00",
+				"url": "https://mairamartins.com/2025/07/09/watched-andor-season-this-week.html",
+				"tags": ["watchlist"]
+			},
+			{
 				"id": "http://maira.micro.blog/2025/07/08/having-tabbouleh-for-dinner-tonight.html",
 				
 				"content_html": "<p>Having tabbouleh for dinner tonight! 🥗</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Having tabbouleh for dinner tonight! 🥗\n\n<img src=\"uploads/2025/media.jpg\" alt=\"A fresh salad with tomatoes, cucumbers, mint, and grains is served in a white bowl.\">\n",
 				"date_published": "2025-07-08T19:33:58+02:00",
-				"url": "https://mairamartins.com/2025/07/08/having-tabbouleh-for-dinner-tonight.html"
+				"url": "https://mairamartins.com/2025/07/08/having-tabbouleh-for-dinner-tonight.html",
+				"tags": ["gourmet"]
 			},
 			{
 				"id": "http://maira.micro.blog/2025/07/08/a-month-ago-i-went.html",
